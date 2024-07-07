@@ -19,7 +19,6 @@ Adaptive AUTOSAR refers to the latest iteration of the AUTOSAR (AUTomotive Open 
 **[Adaptive AUTOSAR Platform](https://github.com/K0Dahyun/DES_ARA)** *(Proceeding)*
 
 </br>
-
 ### Adaptive AUTOSAR Application(ADAS)
 
 Adaptive AUTOSAR finds applications across various domains within the automotive industry, particularly in vehicles requiring advanced computing capabilities and connectivity. among them one is ADAS 
