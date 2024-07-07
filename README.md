@@ -15,6 +15,7 @@ This project aims to develop an Advanced Driver Assistance System (ADAS) applica
 ### Adaptive AUTOSAR
 
 Adaptive AUTOSAR refers to the latest iteration of the AUTOSAR (AUTomotive Open System ARchitecture) standard, which aims to address the increasing complexity of automotive software in modern vehicles. Unlike Classic AUTOSAR, which primarily focuses on embedded control units (ECUs) in traditional automotive electronic architectures, Adaptive AUTOSAR is designed for use in high-performance computing platforms, such as advanced driver assistance systems (ADAS), autonomous driving, and connected car applications.
+However, the AUTOSAR platform is not open-source and is expensive for general users. Therefore, our goal includes developing an open-source AUTOSAR platform.
 
 **[Adaptive AUTOSAR Platform](https://github.com/K0Dahyun/DES_ARA)** *(Proceeding)*
 </br>
