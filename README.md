@@ -1,7 +1,7 @@
 # DES_Adaptive-Application
 
 ### Images & Introduction
-<img src="https://github.com/SEA-ME-Team6/DES_Adaptive-Application/assets/106136905/475b990c-e120-4c40-bc05-60da683e9e58.png" width="200" height="300"/>
+<img src="https://github.com/SEA-ME-Team6/DES_Adaptive-Application/assets/106136905/475b990c-e120-4c40-bc05-60da683e9e58.png" width="400" height="600"/>
 
 This project aims to develop an Advanced Driver Assistance System (ADAS) application based on the AUTOSAR Adaptive Platform. The ADAS application will communicate with an existing Piracer Head Unit application, enabling enhanced functionality and integration within the automotive system.
 
